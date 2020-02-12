@@ -38,6 +38,56 @@ a:hover {
   background-repeat: no-repeat;
 }
 
+.image-div-1 {
+  width: 100%;
+  max-width: 50vh;
+  min-width: 55vh;
+  /* margin: 0 auto; */
+  /* margin-right: 10px; */
+  border-radius: 10px;
+  background-color: #fff;
+  height: 50vh;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+.a1 {
+  background-image: url('../img/spons/innovation.jpg');
+}
+
+.a2 {
+  background-image: url('../img/spons/alumini.jpg');
+}
+
+.a3 {
+  background-image: url("../img/spons/insider.jpg");
+}
+
+.a4 {
+  background-image: url("../img/spons/lokmat.jpg");
+}
+
+.a5 {
+  background-image: url("../img/spons/ims.jpg");
+}
+
+.a6 {
+  background-image: url("../img/spons/bisleri.jpg");
+}
+
+.a7 {
+  background-image: url("../img/spons/delta.jpg");
+}
+
+.a8 {
+  background-image: url("../img/spons/body.jpg");
+}
+
+.a9 {
+  background-image: url("../img/spons/ever.jpg");
+}
 
 
 .n1 {
@@ -210,6 +260,13 @@ a:hover {
     max-width: 13vh;
     min-width: 13vh;
     height: 13vh;
+  }
+
+  .image-div-1 {
+    padding: 0;
+    max-width: 35vh;
+    min-width: 35vh;
+    height: 30vh;
   }
 
 }

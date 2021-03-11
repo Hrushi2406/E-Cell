@@ -5,6 +5,8 @@
   padding: 2% 5%;
   padding-right: 3%;
   animation: appearImgGrid 2s 2s forwards;
+  display: flex;
+  justify-content: center;
 }
 
 .events {
@@ -62,18 +64,18 @@ a:hover {
 }
 
 .a3 {
-  background-image: url("../img/spons/insider.jpg");
+  background-image: url("../img/spons/navneet.png");
 }
 
 .a4 {
-  background-image: url("../img/spons/lokmat.jpg");
+  background-image: url("../img/spons/collegepond.png");
 }
 
 .a5 {
-  background-image: url("../img/spons/ims.jpg");
+  background-image: url("../img/spons/inmovidu.png");
 }
 
-.a6 {
+/* .a6 {
   background-image: url("../img/spons/bisleri.jpg");
 }
 
@@ -87,7 +89,7 @@ a:hover {
 
 .a9 {
   background-image: url("../img/spons/ever.jpg");
-}
+} */
 
 
 .n1 {
@@ -231,6 +233,34 @@ a:hover {
   background-image: url('../img/spons/priceton.png');
 }
 
+.n33 {
+  background-image: url('../img/spons/insider.jpg');
+}
+
+.n34 {
+  background-image: url('../img/spons/lokmat.jpg');
+}
+
+.n35 {
+  background-image: url('../img/spons/ims.jpg');
+}
+
+.n36 {
+  background-image: url('../img/spons/bisleri.jpg');
+}
+
+.n37 {
+  background-image: url('../img/spons/delta.jpg');
+}
+
+.n38 {
+  background-image: url('../img/spons/body.jpg');
+}
+
+.n39 {
+  background-image: url('../img/spons/ever.jpg');
+}
+
 
 
 
@@ -252,8 +282,6 @@ a:hover {
     /* margin: 0 0 15px 0; */
     padding: 0 10px;
   }
-
-
 
   .image-div {
     padding: 0;

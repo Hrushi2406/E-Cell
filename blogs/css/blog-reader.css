@@ -5,9 +5,9 @@
   padding: 12px;
 }
 .blogImg{
-  max-width: 520px;
+  /* max-width: 520px;
   min-width: 100px;
-  min-height: 60px;
+  height: auto; */
 }
 
 .title{

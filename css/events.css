@@ -34,6 +34,12 @@
   animation: wideR 1s 1s forwards;
 }
 
+/* .div-1-blog{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+} */
+
 .vr {
   position: relative;
   top: -5%;
@@ -54,9 +60,14 @@
   background-color: #ff3737;
   border-radius: 20px;
   animation: wideR 1s 1s forwards;
-
-
 }
+
+.div-2-blog{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 a {
   display: block;
